@@ -155,8 +155,6 @@ are several local servers below:
 - CA
   - [West LA Coding](https://discord.gg/gVHQW9P3WR) - West
     LA
-  - [Front End Guild](https://discord.gg/dnAqbRqnd2) - Bay
-    Area
 - CO - Pending
 - HI - Pending
 - OR - Pending
