@@ -1,6 +1,8 @@
-Welcome to the Tech Community Discord repository. Here you can find a set of different types of Discord groups.
+Welcome to the Tech Community Discord repository. Here you
+can find a set of different types of Discord groups.
 
-If you would like to add to the list, please see our [contribution guidelines](./CONTRIBUTING.md).
+If you would like to add to the list, please see our
+[contribution guidelines](./CONTRIBUTING.md).
 
 # Navigation
 
@@ -82,13 +84,17 @@ If you would like to add to the list, please see our [contribution guidelines](.
 
 ### New England
 
-Where the morning can start with 80°F, rain 10" at noon, and everybody drinks Dunkin’. The home for Harvard, MIT, Yale, Brown, and the W3C has a blossoming tech comunity:
+Where the morning can start with 80°F, rain 10" at noon, and
+everybody drinks Dunkin’. The home for Harvard, MIT, Yale,
+Brown, and the W3C has a blossoming tech comunity:
 
 - CT - Pending
 
 ### Mid-Atlantic
 
-If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washington D.C., it is worth taking a look at these communities:
+If you live in Delaware, Maryland, New Jersey, New York,
+Pennsylvania or Washington D.C., it is worth taking a look
+at these communities:
 
 - DC - Pending
 - NY - Pending
@@ -97,7 +103,9 @@ If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washing
 
 ### The Midwest
 
-In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin, there are some active discords below:
+In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota,
+Missouri, Nebraska, North Dakota, Ohio, South Dakota and
+Wisconsin, there are some active discords below:
 
 - IA - Pending
 - IL - Pending
@@ -112,21 +120,27 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 
 ### The Southeast
 
-Join these local Discord servers in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia or West Virginia:
+Join these local Discord servers in Alabama, Arkansas,
+Florida, Georgia, Kentucky, Louisiana, Mississippi, North
+Carolina, South Carolina, Tennessee, Virginia or West
+Virginia:
 
 - AL - Pending
 - AR - Pending
 - FL
-  - [Grammerhub](https://discord.gg/5c7ss8hvtE) - West Palm Beach
+  - [Grammerhub](https://discord.gg/5c7ss8hvtE) - West Palm
+    Beach
   - [TechFlo](https://discord.gg/M8jedRKPz4) - Broward
 - GA - Pending
 - KY - Pending
 - NC - Pending
 - TN - Pending
 - VA - Pending
+
 ### The Southwest
 
-Local Discord servers in Arizona, New Mexico, Oklahoma, Texas:
+Local Discord servers in Arizona, New Mexico, Oklahoma,
+Texas:
 
 - AZ - Pending
 - NM - Pending
@@ -135,10 +149,14 @@ Local Discord servers in Arizona, New Mexico, Oklahoma, Texas:
 
 ### The West
 
-From Alaska, Hawaii and Washington down to California there are several local servers below:
+From Alaska, Hawaii and Washington down to California there
+are several local servers below:
 
-- CA 
-  - [West LA Coding](https://discord.gg/gVHQW9P3WR) - West LA
+- CA
+  - [West LA Coding](https://discord.gg/gVHQW9P3WR) - West
+    LA
+  - [Front End Guild](https://discord.gg/dnAqbRqnd2) - Bay
+    Area
 - CO - Pending
 - HI - Pending
 - OR - Pending
@@ -160,6 +178,7 @@ From Alaska, Hawaii and Washington down to California there are several local se
 - Pending
 
 ### 🇧🇸 🇧🇧 🇧🇿 🇨🇺 🇩🇲 🇩🇴 🇬🇩 🇬🇾 🇭🇹 🇯🇲 🇰🇳 🇱🇨 🇻🇨 🇸🇷 🇹🇹 Caribbean Countries
+
 - Pending
 
 ### 🇨🇮 Cote d'Ivoire (Ivory Coast)
@@ -258,7 +277,6 @@ From Alaska, Hawaii and Washington down to California there are several local se
 
 - Pending
 
-
 # 🇪🇸 Spain
 
 - Pending
@@ -287,7 +305,9 @@ From Alaska, Hawaii and Washington down to California there are several local se
 
 ## General Tech Discord Communities
 
-Below are some other interesting Discord servers for different technologies and programming languages that welcome anybody worldwide:
+Below are some other interesting Discord servers for
+different technologies and programming languages that
+welcome anybody worldwide:
 
 ## Frameworks
 
